@@ -386,7 +386,7 @@ function adjustRanks(index, score, rank) {
 
 //Initialization code
 // console.log(setRanks([100, 90, 90, 80]));
-// console.log(findIndex(85));
+// console.log(findIndex(85));s
 // console.log(determineRank(0, 101));
 // adjustRanks(0, 101, 0);
 // console.log(ranks);
